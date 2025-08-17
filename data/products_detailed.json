@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "name": "Produkt 1",
+    "category": "Belysning",
+    "aisle": "Gång 18",
+    "shelf": "Hyllplats 6",
+    "locationCode": "9910-586",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 1. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Produkt 2",
+    "category": "Trädgård",
+    "aisle": "Gång 18",
+    "shelf": "Hyllplats 1",
+    "locationCode": "8643-816",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 2. Den är perfekt för användning i kategorin trädgård.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Produkt 3",
+    "category": "Färg",
+    "aisle": "Gång 20",
+    "shelf": "Hyllplats 3",
+    "locationCode": "6969-801",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 3. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Produkt 4",
+    "category": "Kök",
+    "aisle": "Gång 7",
+    "shelf": "Hyllplats 2",
+    "locationCode": "7593-418",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 4. Den är perfekt för användning i kategorin kök.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Produkt 5",
+    "category": "Belysning",
+    "aisle": "Gång 8",
+    "shelf": "Hyllplats 10",
+    "locationCode": "2696-379",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 5. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Produkt 6",
+    "category": "Belysning",
+    "aisle": "Gång 18",
+    "shelf": "Hyllplats 9",
+    "locationCode": "3826-858",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 6. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Produkt 7",
+    "category": "VVS",
+    "aisle": "Gång 19",
+    "shelf": "Hyllplats 8",
+    "locationCode": "6638-175",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 7. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Produkt 8",
+    "category": "Elverktyg",
+    "aisle": "Gång 1",
+    "shelf": "Hyllplats 6",
+    "locationCode": "9816-481",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 8. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Produkt 9",
+    "category": "Kök",
+    "aisle": "Gång 11",
+    "shelf": "Hyllplats 3",
+    "locationCode": "1996-734",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 9. Den är perfekt för användning i kategorin kök.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Produkt 10",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 4",
+    "shelf": "Hyllplats 7",
+    "locationCode": "4641-847",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 10. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Produkt 11",
+    "category": "Handverktyg",
+    "aisle": "Gång 18",
+    "shelf": "Hyllplats 4",
+    "locationCode": "6311-799",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 11. Den är perfekt för användning i kategorin handverktyg.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Produkt 12",
+    "category": "Belysning",
+    "aisle": "Gång 13",
+    "shelf": "Hyllplats 7",
+    "locationCode": "7252-419",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 12. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Produkt 13",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 12",
+    "shelf": "Hyllplats 3",
+    "locationCode": "2141-544",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 13. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Produkt 14",
+    "category": "Trädgård",
+    "aisle": "Gång 9",
+    "shelf": "Hyllplats 8",
+    "locationCode": "9480-738",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 14. Den är perfekt för användning i kategorin trädgård.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Produkt 15",
+    "category": "Kök",
+    "aisle": "Gång 2",
+    "shelf": "Hyllplats 6",
+    "locationCode": "9169-691",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 15. Den är perfekt för användning i kategorin kök.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Produkt 16",
+    "category": "Handverktyg",
+    "aisle": "Gång 3",
+    "shelf": "Hyllplats 5",
+    "locationCode": "4971-997",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 16. Den är perfekt för användning i kategorin handverktyg.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Produkt 17",
+    "category": "Belysning",
+    "aisle": "Gång 2",
+    "shelf": "Hyllplats 3",
+    "locationCode": "4077-539",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 17. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Produkt 18",
+    "category": "Vitvaror",
+    "aisle": "Gång 15",
+    "shelf": "Hyllplats 9",
+    "locationCode": "8645-562",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 18. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Produkt 19",
+    "category": "Färg",
+    "aisle": "Gång 10",
+    "shelf": "Hyllplats 7",
+    "locationCode": "8243-671",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 19. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Produkt 20",
+    "category": "Färg",
+    "aisle": "Gång 2",
+    "shelf": "Hyllplats 1",
+    "locationCode": "6967-995",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 20. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Produkt 21",
+    "category": "Belysning",
+    "aisle": "Gång 12",
+    "shelf": "Hyllplats 10",
+    "locationCode": "7791-652",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 21. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Produkt 22",
+    "category": "VVS",
+    "aisle": "Gång 3",
+    "shelf": "Hyllplats 3",
+    "locationCode": "3047-847",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 22. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Produkt 23",
+    "category": "Belysning",
+    "aisle": "Gång 20",
+    "shelf": "Hyllplats 8",
+    "locationCode": "9608-812",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 23. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Produkt 24",
+    "category": "Elverktyg",
+    "aisle": "Gång 3",
+    "shelf": "Hyllplats 2",
+    "locationCode": "3736-834",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 24. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Produkt 25",
+    "category": "Trädgård",
+    "aisle": "Gång 6",
+    "shelf": "Hyllplats 5",
+    "locationCode": "7089-732",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 25. Den är perfekt för användning i kategorin trädgård.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Produkt 26",
+    "category": "Byggmaterial",
+    "aisle": "Gång 14",
+    "shelf": "Hyllplats 4",
+    "locationCode": "3633-828",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 26. Den är perfekt för användning i kategorin byggmaterial.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Produkt 27",
+    "category": "Färg",
+    "aisle": "Gång 9",
+    "shelf": "Hyllplats 4",
+    "locationCode": "1904-603",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 27. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Produkt 28",
+    "category": "Elverktyg",
+    "aisle": "Gång 7",
+    "shelf": "Hyllplats 4",
+    "locationCode": "3306-809",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 28. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Produkt 29",
+    "category": "VVS",
+    "aisle": "Gång 7",
+    "shelf": "Hyllplats 8",
+    "locationCode": "2067-474",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 29. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Produkt 30",
+    "category": "Belysning",
+    "aisle": "Gång 16",
+    "shelf": "Hyllplats 10",
+    "locationCode": "8051-928",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 30. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Produkt 31",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 6",
+    "shelf": "Hyllplats 9",
+    "locationCode": "2957-163",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 31. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Produkt 32",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 10",
+    "shelf": "Hyllplats 1",
+    "locationCode": "7886-395",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 32. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Produkt 33",
+    "category": "Färg",
+    "aisle": "Gång 18",
+    "shelf": "Hyllplats 4",
+    "locationCode": "2341-970",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 33. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Produkt 34",
+    "category": "Elverktyg",
+    "aisle": "Gång 2",
+    "shelf": "Hyllplats 2",
+    "locationCode": "3319-209",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 34. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Produkt 35",
+    "category": "Färg",
+    "aisle": "Gång 14",
+    "shelf": "Hyllplats 2",
+    "locationCode": "3116-579",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 35. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Produkt 36",
+    "category": "Handverktyg",
+    "aisle": "Gång 4",
+    "shelf": "Hyllplats 5",
+    "locationCode": "1233-522",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 36. Den är perfekt för användning i kategorin handverktyg.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Produkt 37",
+    "category": "Elverktyg",
+    "aisle": "Gång 20",
+    "shelf": "Hyllplats 5",
+    "locationCode": "6037-811",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 37. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Produkt 38",
+    "category": "VVS",
+    "aisle": "Gång 5",
+    "shelf": "Hyllplats 7",
+    "locationCode": "5615-808",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 38. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Produkt 39",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 13",
+    "shelf": "Hyllplats 5",
+    "locationCode": "4386-778",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 39. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Produkt 40",
+    "category": "Belysning",
+    "aisle": "Gång 10",
+    "shelf": "Hyllplats 6",
+    "locationCode": "9609-139",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 40. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Produkt 41",
+    "category": "Kök",
+    "aisle": "Gång 4",
+    "shelf": "Hyllplats 2",
+    "locationCode": "6438-510",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 41. Den är perfekt för användning i kategorin kök.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Produkt 42",
+    "category": "Kök",
+    "aisle": "Gång 2",
+    "shelf": "Hyllplats 1",
+    "locationCode": "8203-887",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 42. Den är perfekt för användning i kategorin kök.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Produkt 43",
+    "category": "Färg",
+    "aisle": "Gång 18",
+    "shelf": "Hyllplats 3",
+    "locationCode": "6960-716",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 43. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Produkt 44",
+    "category": "Färg",
+    "aisle": "Gång 14",
+    "shelf": "Hyllplats 3",
+    "locationCode": "2053-440",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 44. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Produkt 45",
+    "category": "VVS",
+    "aisle": "Gång 12",
+    "shelf": "Hyllplats 2",
+    "locationCode": "7574-593",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 45. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Produkt 46",
+    "category": "Elverktyg",
+    "aisle": "Gång 18",
+    "shelf": "Hyllplats 3",
+    "locationCode": "3333-737",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 46. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Produkt 47",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 8",
+    "shelf": "Hyllplats 2",
+    "locationCode": "6448-879",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 47. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Produkt 48",
+    "category": "Belysning",
+    "aisle": "Gång 16",
+    "shelf": "Hyllplats 2",
+    "locationCode": "2745-861",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 48. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Produkt 49",
+    "category": "Färg",
+    "aisle": "Gång 19",
+    "shelf": "Hyllplats 4",
+    "locationCode": "2936-730",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 49. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Produkt 50",
+    "category": "Byggmaterial",
+    "aisle": "Gång 6",
+    "shelf": "Hyllplats 6",
+    "locationCode": "9757-179",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 50. Den är perfekt för användning i kategorin byggmaterial.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Produkt 51",
+    "category": "Handverktyg",
+    "aisle": "Gång 8",
+    "shelf": "Hyllplats 6",
+    "locationCode": "5995-819",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 51. Den är perfekt för användning i kategorin handverktyg.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Produkt 52",
+    "category": "Kök",
+    "aisle": "Gång 5",
+    "shelf": "Hyllplats 9",
+    "locationCode": "2591-948",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 52. Den är perfekt för användning i kategorin kök.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 53,
+    "name": "Produkt 53",
+    "category": "Kök",
+    "aisle": "Gång 15",
+    "shelf": "Hyllplats 10",
+    "locationCode": "8155-579",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 53. Den är perfekt för användning i kategorin kök.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 54,
+    "name": "Produkt 54",
+    "category": "Vitvaror",
+    "aisle": "Gång 19",
+    "shelf": "Hyllplats 8",
+    "locationCode": "4933-207",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 54. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 55,
+    "name": "Produkt 55",
+    "category": "Byggmaterial",
+    "aisle": "Gång 11",
+    "shelf": "Hyllplats 9",
+    "locationCode": "2820-118",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 55. Den är perfekt för användning i kategorin byggmaterial.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 56,
+    "name": "Produkt 56",
+    "category": "Elverktyg",
+    "aisle": "Gång 17",
+    "shelf": "Hyllplats 9",
+    "locationCode": "7576-591",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 56. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Produkt 57",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 2",
+    "shelf": "Hyllplats 3",
+    "locationCode": "2501-904",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 57. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 58,
+    "name": "Produkt 58",
+    "category": "Kök",
+    "aisle": "Gång 20",
+    "shelf": "Hyllplats 7",
+    "locationCode": "1912-837",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 58. Den är perfekt för användning i kategorin kök.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 59,
+    "name": "Produkt 59",
+    "category": "Trädgård",
+    "aisle": "Gång 20",
+    "shelf": "Hyllplats 2",
+    "locationCode": "8544-655",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 59. Den är perfekt för användning i kategorin trädgård.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 60,
+    "name": "Produkt 60",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 19",
+    "shelf": "Hyllplats 7",
+    "locationCode": "8840-861",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 60. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 61,
+    "name": "Produkt 61",
+    "category": "VVS",
+    "aisle": "Gång 18",
+    "shelf": "Hyllplats 1",
+    "locationCode": "6277-157",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 61. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 62,
+    "name": "Produkt 62",
+    "category": "VVS",
+    "aisle": "Gång 19",
+    "shelf": "Hyllplats 9",
+    "locationCode": "7789-105",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 62. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 63,
+    "name": "Produkt 63",
+    "category": "Belysning",
+    "aisle": "Gång 12",
+    "shelf": "Hyllplats 4",
+    "locationCode": "3562-768",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 63. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 64,
+    "name": "Produkt 64",
+    "category": "Byggmaterial",
+    "aisle": "Gång 20",
+    "shelf": "Hyllplats 6",
+    "locationCode": "5895-897",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 64. Den är perfekt för användning i kategorin byggmaterial.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 65,
+    "name": "Produkt 65",
+    "category": "Färg",
+    "aisle": "Gång 14",
+    "shelf": "Hyllplats 10",
+    "locationCode": "8666-827",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 65. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 66,
+    "name": "Produkt 66",
+    "category": "Färg",
+    "aisle": "Gång 1",
+    "shelf": "Hyllplats 4",
+    "locationCode": "9465-569",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 66. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 67,
+    "name": "Produkt 67",
+    "category": "Vitvaror",
+    "aisle": "Gång 10",
+    "shelf": "Hyllplats 10",
+    "locationCode": "2242-710",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 67. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 68,
+    "name": "Produkt 68",
+    "category": "VVS",
+    "aisle": "Gång 19",
+    "shelf": "Hyllplats 4",
+    "locationCode": "7064-284",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 68. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 69,
+    "name": "Produkt 69",
+    "category": "Färg",
+    "aisle": "Gång 15",
+    "shelf": "Hyllplats 5",
+    "locationCode": "7261-860",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 69. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 70,
+    "name": "Produkt 70",
+    "category": "Trädgård",
+    "aisle": "Gång 16",
+    "shelf": "Hyllplats 3",
+    "locationCode": "9236-443",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 70. Den är perfekt för användning i kategorin trädgård.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 71,
+    "name": "Produkt 71",
+    "category": "Kök",
+    "aisle": "Gång 8",
+    "shelf": "Hyllplats 8",
+    "locationCode": "9864-865",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 71. Den är perfekt för användning i kategorin kök.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 72,
+    "name": "Produkt 72",
+    "category": "Handverktyg",
+    "aisle": "Gång 6",
+    "shelf": "Hyllplats 2",
+    "locationCode": "6208-728",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 72. Den är perfekt för användning i kategorin handverktyg.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 73,
+    "name": "Produkt 73",
+    "category": "Vitvaror",
+    "aisle": "Gång 19",
+    "shelf": "Hyllplats 10",
+    "locationCode": "7235-338",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 73. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 74,
+    "name": "Produkt 74",
+    "category": "Byggmaterial",
+    "aisle": "Gång 18",
+    "shelf": "Hyllplats 4",
+    "locationCode": "6653-694",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 74. Den är perfekt för användning i kategorin byggmaterial.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 75,
+    "name": "Produkt 75",
+    "category": "Elverktyg",
+    "aisle": "Gång 17",
+    "shelf": "Hyllplats 3",
+    "locationCode": "4102-601",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 75. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 76,
+    "name": "Produkt 76",
+    "category": "Belysning",
+    "aisle": "Gång 15",
+    "shelf": "Hyllplats 1",
+    "locationCode": "1311-393",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 76. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 77,
+    "name": "Produkt 77",
+    "category": "Vitvaror",
+    "aisle": "Gång 2",
+    "shelf": "Hyllplats 1",
+    "locationCode": "4963-970",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 77. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 78,
+    "name": "Produkt 78",
+    "category": "Trädgård",
+    "aisle": "Gång 20",
+    "shelf": "Hyllplats 7",
+    "locationCode": "6771-959",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 78. Den är perfekt för användning i kategorin trädgård.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 79,
+    "name": "Produkt 79",
+    "category": "Elverktyg",
+    "aisle": "Gång 18",
+    "shelf": "Hyllplats 10",
+    "locationCode": "8905-463",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 79. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 80,
+    "name": "Produkt 80",
+    "category": "Byggmaterial",
+    "aisle": "Gång 14",
+    "shelf": "Hyllplats 8",
+    "locationCode": "2271-177",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 80. Den är perfekt för användning i kategorin byggmaterial.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 81,
+    "name": "Produkt 81",
+    "category": "Handverktyg",
+    "aisle": "Gång 15",
+    "shelf": "Hyllplats 3",
+    "locationCode": "9832-293",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 81. Den är perfekt för användning i kategorin handverktyg.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 82,
+    "name": "Produkt 82",
+    "category": "Elverktyg",
+    "aisle": "Gång 11",
+    "shelf": "Hyllplats 10",
+    "locationCode": "6926-723",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 82. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 83,
+    "name": "Produkt 83",
+    "category": "Trädgård",
+    "aisle": "Gång 4",
+    "shelf": "Hyllplats 10",
+    "locationCode": "2505-691",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 83. Den är perfekt för användning i kategorin trädgård.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 84,
+    "name": "Produkt 84",
+    "category": "Kök",
+    "aisle": "Gång 1",
+    "shelf": "Hyllplats 8",
+    "locationCode": "9707-806",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 84. Den är perfekt för användning i kategorin kök.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 85,
+    "name": "Produkt 85",
+    "category": "VVS",
+    "aisle": "Gång 18",
+    "shelf": "Hyllplats 4",
+    "locationCode": "1962-571",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 85. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 86,
+    "name": "Produkt 86",
+    "category": "VVS",
+    "aisle": "Gång 6",
+    "shelf": "Hyllplats 2",
+    "locationCode": "1902-282",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 86. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 87,
+    "name": "Produkt 87",
+    "category": "Kök",
+    "aisle": "Gång 15",
+    "shelf": "Hyllplats 10",
+    "locationCode": "1631-787",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 87. Den är perfekt för användning i kategorin kök.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 88,
+    "name": "Produkt 88",
+    "category": "Byggmaterial",
+    "aisle": "Gång 18",
+    "shelf": "Hyllplats 6",
+    "locationCode": "4318-165",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 88. Den är perfekt för användning i kategorin byggmaterial.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 89,
+    "name": "Produkt 89",
+    "category": "Handverktyg",
+    "aisle": "Gång 4",
+    "shelf": "Hyllplats 10",
+    "locationCode": "6072-215",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 89. Den är perfekt för användning i kategorin handverktyg.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 90,
+    "name": "Produkt 90",
+    "category": "Färg",
+    "aisle": "Gång 8",
+    "shelf": "Hyllplats 5",
+    "locationCode": "1042-447",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 90. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 91,
+    "name": "Produkt 91",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 2",
+    "shelf": "Hyllplats 10",
+    "locationCode": "2590-155",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 91. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 92,
+    "name": "Produkt 92",
+    "category": "Trädgård",
+    "aisle": "Gång 13",
+    "shelf": "Hyllplats 6",
+    "locationCode": "4335-173",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 92. Den är perfekt för användning i kategorin trädgård.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 93,
+    "name": "Produkt 93",
+    "category": "Byggmaterial",
+    "aisle": "Gång 17",
+    "shelf": "Hyllplats 1",
+    "locationCode": "5579-986",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 93. Den är perfekt för användning i kategorin byggmaterial.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 94,
+    "name": "Produkt 94",
+    "category": "Elverktyg",
+    "aisle": "Gång 20",
+    "shelf": "Hyllplats 5",
+    "locationCode": "6884-588",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 94. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 95,
+    "name": "Produkt 95",
+    "category": "Belysning",
+    "aisle": "Gång 3",
+    "shelf": "Hyllplats 1",
+    "locationCode": "6807-106",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 95. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 96,
+    "name": "Produkt 96",
+    "category": "Färg",
+    "aisle": "Gång 8",
+    "shelf": "Hyllplats 8",
+    "locationCode": "6651-322",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 96. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 97,
+    "name": "Produkt 97",
+    "category": "VVS",
+    "aisle": "Gång 9",
+    "shelf": "Hyllplats 6",
+    "locationCode": "4418-182",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 97. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 98,
+    "name": "Produkt 98",
+    "category": "Vitvaror",
+    "aisle": "Gång 15",
+    "shelf": "Hyllplats 3",
+    "locationCode": "4395-110",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 98. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 99,
+    "name": "Produkt 99",
+    "category": "Byggmaterial",
+    "aisle": "Gång 10",
+    "shelf": "Hyllplats 6",
+    "locationCode": "1654-421",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 99. Den är perfekt för användning i kategorin byggmaterial.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 100,
+    "name": "Produkt 100",
+    "category": "VVS",
+    "aisle": "Gång 3",
+    "shelf": "Hyllplats 6",
+    "locationCode": "5707-645",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 100. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 101,
+    "name": "Produkt 101",
+    "category": "Färg",
+    "aisle": "Gång 4",
+    "shelf": "Hyllplats 1",
+    "locationCode": "3766-158",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 101. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 102,
+    "name": "Produkt 102",
+    "category": "Byggmaterial",
+    "aisle": "Gång 14",
+    "shelf": "Hyllplats 1",
+    "locationCode": "5258-837",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 102. Den är perfekt för användning i kategorin byggmaterial.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 103,
+    "name": "Produkt 103",
+    "category": "Handverktyg",
+    "aisle": "Gång 11",
+    "shelf": "Hyllplats 3",
+    "locationCode": "9184-927",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 103. Den är perfekt för användning i kategorin handverktyg.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 104,
+    "name": "Produkt 104",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 6",
+    "shelf": "Hyllplats 4",
+    "locationCode": "8802-164",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 104. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 105,
+    "name": "Produkt 105",
+    "category": "Trädgård",
+    "aisle": "Gång 4",
+    "shelf": "Hyllplats 2",
+    "locationCode": "6428-540",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 105. Den är perfekt för användning i kategorin trädgård.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 106,
+    "name": "Produkt 106",
+    "category": "Vitvaror",
+    "aisle": "Gång 19",
+    "shelf": "Hyllplats 2",
+    "locationCode": "1043-194",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 106. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 107,
+    "name": "Produkt 107",
+    "category": "Trädgård",
+    "aisle": "Gång 7",
+    "shelf": "Hyllplats 6",
+    "locationCode": "5730-141",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 107. Den är perfekt för användning i kategorin trädgård.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 108,
+    "name": "Produkt 108",
+    "category": "Trädgård",
+    "aisle": "Gång 17",
+    "shelf": "Hyllplats 3",
+    "locationCode": "2972-598",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 108. Den är perfekt för användning i kategorin trädgård.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 109,
+    "name": "Produkt 109",
+    "category": "Färg",
+    "aisle": "Gång 1",
+    "shelf": "Hyllplats 7",
+    "locationCode": "9921-484",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 109. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 110,
+    "name": "Produkt 110",
+    "category": "VVS",
+    "aisle": "Gång 1",
+    "shelf": "Hyllplats 9",
+    "locationCode": "5945-841",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 110. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 111,
+    "name": "Produkt 111",
+    "category": "Vitvaror",
+    "aisle": "Gång 20",
+    "shelf": "Hyllplats 3",
+    "locationCode": "3043-463",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 111. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 112,
+    "name": "Produkt 112",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 8",
+    "shelf": "Hyllplats 5",
+    "locationCode": "5165-301",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 112. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 113,
+    "name": "Produkt 113",
+    "category": "Belysning",
+    "aisle": "Gång 12",
+    "shelf": "Hyllplats 3",
+    "locationCode": "6069-888",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 113. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 114,
+    "name": "Produkt 114",
+    "category": "Färg",
+    "aisle": "Gång 15",
+    "shelf": "Hyllplats 7",
+    "locationCode": "5455-340",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 114. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 115,
+    "name": "Produkt 115",
+    "category": "Belysning",
+    "aisle": "Gång 15",
+    "shelf": "Hyllplats 1",
+    "locationCode": "7096-381",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 115. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 116,
+    "name": "Produkt 116",
+    "category": "Belysning",
+    "aisle": "Gång 14",
+    "shelf": "Hyllplats 3",
+    "locationCode": "5996-223",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 116. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 117,
+    "name": "Produkt 117",
+    "category": "VVS",
+    "aisle": "Gång 4",
+    "shelf": "Hyllplats 4",
+    "locationCode": "4732-882",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 117. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 118,
+    "name": "Produkt 118",
+    "category": "Handverktyg",
+    "aisle": "Gång 15",
+    "shelf": "Hyllplats 7",
+    "locationCode": "6683-491",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 118. Den är perfekt för användning i kategorin handverktyg.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 119,
+    "name": "Produkt 119",
+    "category": "Trädgård",
+    "aisle": "Gång 12",
+    "shelf": "Hyllplats 6",
+    "locationCode": "8471-790",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 119. Den är perfekt för användning i kategorin trädgård.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 120,
+    "name": "Produkt 120",
+    "category": "Elverktyg",
+    "aisle": "Gång 18",
+    "shelf": "Hyllplats 4",
+    "locationCode": "7465-167",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 120. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 121,
+    "name": "Produkt 121",
+    "category": "VVS",
+    "aisle": "Gång 11",
+    "shelf": "Hyllplats 3",
+    "locationCode": "7887-165",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 121. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 122,
+    "name": "Produkt 122",
+    "category": "VVS",
+    "aisle": "Gång 6",
+    "shelf": "Hyllplats 9",
+    "locationCode": "2232-403",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 122. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 123,
+    "name": "Produkt 123",
+    "category": "Belysning",
+    "aisle": "Gång 15",
+    "shelf": "Hyllplats 4",
+    "locationCode": "7186-281",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 123. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 124,
+    "name": "Produkt 124",
+    "category": "Handverktyg",
+    "aisle": "Gång 13",
+    "shelf": "Hyllplats 5",
+    "locationCode": "5047-654",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 124. Den är perfekt för användning i kategorin handverktyg.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 125,
+    "name": "Produkt 125",
+    "category": "Byggmaterial",
+    "aisle": "Gång 7",
+    "shelf": "Hyllplats 4",
+    "locationCode": "7310-515",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 125. Den är perfekt för användning i kategorin byggmaterial.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 126,
+    "name": "Produkt 126",
+    "category": "Elverktyg",
+    "aisle": "Gång 10",
+    "shelf": "Hyllplats 5",
+    "locationCode": "3488-344",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 126. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 127,
+    "name": "Produkt 127",
+    "category": "Byggmaterial",
+    "aisle": "Gång 15",
+    "shelf": "Hyllplats 1",
+    "locationCode": "1640-591",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 127. Den är perfekt för användning i kategorin byggmaterial.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 128,
+    "name": "Produkt 128",
+    "category": "VVS",
+    "aisle": "Gång 8",
+    "shelf": "Hyllplats 8",
+    "locationCode": "1472-416",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 128. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 129,
+    "name": "Produkt 129",
+    "category": "Färg",
+    "aisle": "Gång 5",
+    "shelf": "Hyllplats 8",
+    "locationCode": "5356-304",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 129. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 130,
+    "name": "Produkt 130",
+    "category": "Handverktyg",
+    "aisle": "Gång 1",
+    "shelf": "Hyllplats 3",
+    "locationCode": "2678-300",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 130. Den är perfekt för användning i kategorin handverktyg.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 131,
+    "name": "Produkt 131",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 10",
+    "shelf": "Hyllplats 2",
+    "locationCode": "5415-138",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 131. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 132,
+    "name": "Produkt 132",
+    "category": "VVS",
+    "aisle": "Gång 20",
+    "shelf": "Hyllplats 6",
+    "locationCode": "9569-152",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 132. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 133,
+    "name": "Produkt 133",
+    "category": "Handverktyg",
+    "aisle": "Gång 8",
+    "shelf": "Hyllplats 8",
+    "locationCode": "7118-749",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 133. Den är perfekt för användning i kategorin handverktyg.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 134,
+    "name": "Produkt 134",
+    "category": "Handverktyg",
+    "aisle": "Gång 18",
+    "shelf": "Hyllplats 1",
+    "locationCode": "5846-834",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 134. Den är perfekt för användning i kategorin handverktyg.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 135,
+    "name": "Produkt 135",
+    "category": "Färg",
+    "aisle": "Gång 5",
+    "shelf": "Hyllplats 5",
+    "locationCode": "9601-596",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 135. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 136,
+    "name": "Produkt 136",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 16",
+    "shelf": "Hyllplats 6",
+    "locationCode": "3114-319",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 136. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 137,
+    "name": "Produkt 137",
+    "category": "Byggmaterial",
+    "aisle": "Gång 18",
+    "shelf": "Hyllplats 2",
+    "locationCode": "7374-164",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 137. Den är perfekt för användning i kategorin byggmaterial.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 138,
+    "name": "Produkt 138",
+    "category": "Färg",
+    "aisle": "Gång 3",
+    "shelf": "Hyllplats 10",
+    "locationCode": "6416-679",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 138. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 139,
+    "name": "Produkt 139",
+    "category": "Elverktyg",
+    "aisle": "Gång 3",
+    "shelf": "Hyllplats 9",
+    "locationCode": "9613-477",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 139. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 140,
+    "name": "Produkt 140",
+    "category": "Färg",
+    "aisle": "Gång 14",
+    "shelf": "Hyllplats 9",
+    "locationCode": "7590-316",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 140. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 141,
+    "name": "Produkt 141",
+    "category": "Färg",
+    "aisle": "Gång 12",
+    "shelf": "Hyllplats 2",
+    "locationCode": "1484-864",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 141. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 142,
+    "name": "Produkt 142",
+    "category": "Trädgård",
+    "aisle": "Gång 4",
+    "shelf": "Hyllplats 8",
+    "locationCode": "5690-867",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 142. Den är perfekt för användning i kategorin trädgård.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 143,
+    "name": "Produkt 143",
+    "category": "Handverktyg",
+    "aisle": "Gång 10",
+    "shelf": "Hyllplats 2",
+    "locationCode": "5940-777",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 143. Den är perfekt för användning i kategorin handverktyg.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 144,
+    "name": "Produkt 144",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 9",
+    "shelf": "Hyllplats 3",
+    "locationCode": "9685-772",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 144. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 145,
+    "name": "Produkt 145",
+    "category": "Belysning",
+    "aisle": "Gång 5",
+    "shelf": "Hyllplats 3",
+    "locationCode": "9162-341",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 145. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 146,
+    "name": "Produkt 146",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 1",
+    "shelf": "Hyllplats 6",
+    "locationCode": "4551-599",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 146. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 147,
+    "name": "Produkt 147",
+    "category": "Vitvaror",
+    "aisle": "Gång 8",
+    "shelf": "Hyllplats 6",
+    "locationCode": "7123-912",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 147. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 148,
+    "name": "Produkt 148",
+    "category": "Färg",
+    "aisle": "Gång 11",
+    "shelf": "Hyllplats 5",
+    "locationCode": "6330-113",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 148. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 149,
+    "name": "Produkt 149",
+    "category": "Handverktyg",
+    "aisle": "Gång 7",
+    "shelf": "Hyllplats 1",
+    "locationCode": "2266-735",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 149. Den är perfekt för användning i kategorin handverktyg.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 150,
+    "name": "Produkt 150",
+    "category": "Vitvaror",
+    "aisle": "Gång 1",
+    "shelf": "Hyllplats 7",
+    "locationCode": "9413-373",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 150. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 151,
+    "name": "Produkt 151",
+    "category": "Byggmaterial",
+    "aisle": "Gång 12",
+    "shelf": "Hyllplats 5",
+    "locationCode": "4936-273",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 151. Den är perfekt för användning i kategorin byggmaterial.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 152,
+    "name": "Produkt 152",
+    "category": "Vitvaror",
+    "aisle": "Gång 10",
+    "shelf": "Hyllplats 8",
+    "locationCode": "5635-829",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 152. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 153,
+    "name": "Produkt 153",
+    "category": "Vitvaror",
+    "aisle": "Gång 11",
+    "shelf": "Hyllplats 6",
+    "locationCode": "8887-627",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 153. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 154,
+    "name": "Produkt 154",
+    "category": "Kök",
+    "aisle": "Gång 3",
+    "shelf": "Hyllplats 4",
+    "locationCode": "4513-751",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 154. Den är perfekt för användning i kategorin kök.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 155,
+    "name": "Produkt 155",
+    "category": "VVS",
+    "aisle": "Gång 10",
+    "shelf": "Hyllplats 2",
+    "locationCode": "5558-142",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 155. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 156,
+    "name": "Produkt 156",
+    "category": "Trädgård",
+    "aisle": "Gång 18",
+    "shelf": "Hyllplats 6",
+    "locationCode": "6615-735",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 156. Den är perfekt för användning i kategorin trädgård.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 157,
+    "name": "Produkt 157",
+    "category": "Vitvaror",
+    "aisle": "Gång 1",
+    "shelf": "Hyllplats 9",
+    "locationCode": "8876-438",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 157. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 158,
+    "name": "Produkt 158",
+    "category": "Byggmaterial",
+    "aisle": "Gång 15",
+    "shelf": "Hyllplats 1",
+    "locationCode": "2023-785",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 158. Den är perfekt för användning i kategorin byggmaterial.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 159,
+    "name": "Produkt 159",
+    "category": "Byggmaterial",
+    "aisle": "Gång 9",
+    "shelf": "Hyllplats 9",
+    "locationCode": "2048-983",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 159. Den är perfekt för användning i kategorin byggmaterial.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 160,
+    "name": "Produkt 160",
+    "category": "VVS",
+    "aisle": "Gång 13",
+    "shelf": "Hyllplats 4",
+    "locationCode": "5683-319",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 160. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 161,
+    "name": "Produkt 161",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 10",
+    "shelf": "Hyllplats 6",
+    "locationCode": "3880-996",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 161. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 162,
+    "name": "Produkt 162",
+    "category": "Trädgård",
+    "aisle": "Gång 1",
+    "shelf": "Hyllplats 1",
+    "locationCode": "2005-363",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 162. Den är perfekt för användning i kategorin trädgård.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 163,
+    "name": "Produkt 163",
+    "category": "Elverktyg",
+    "aisle": "Gång 5",
+    "shelf": "Hyllplats 3",
+    "locationCode": "6397-646",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 163. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 164,
+    "name": "Produkt 164",
+    "category": "Vitvaror",
+    "aisle": "Gång 9",
+    "shelf": "Hyllplats 10",
+    "locationCode": "2200-482",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 164. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 165,
+    "name": "Produkt 165",
+    "category": "Elverktyg",
+    "aisle": "Gång 5",
+    "shelf": "Hyllplats 4",
+    "locationCode": "6638-308",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 165. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 166,
+    "name": "Produkt 166",
+    "category": "Vitvaror",
+    "aisle": "Gång 9",
+    "shelf": "Hyllplats 4",
+    "locationCode": "6315-416",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 166. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 167,
+    "name": "Produkt 167",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 20",
+    "shelf": "Hyllplats 9",
+    "locationCode": "8907-456",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 167. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 168,
+    "name": "Produkt 168",
+    "category": "Byggmaterial",
+    "aisle": "Gång 13",
+    "shelf": "Hyllplats 3",
+    "locationCode": "6763-472",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 168. Den är perfekt för användning i kategorin byggmaterial.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 169,
+    "name": "Produkt 169",
+    "category": "Vitvaror",
+    "aisle": "Gång 2",
+    "shelf": "Hyllplats 8",
+    "locationCode": "8368-509",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 169. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 170,
+    "name": "Produkt 170",
+    "category": "Vitvaror",
+    "aisle": "Gång 5",
+    "shelf": "Hyllplats 10",
+    "locationCode": "2731-665",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 170. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 171,
+    "name": "Produkt 171",
+    "category": "Elverktyg",
+    "aisle": "Gång 18",
+    "shelf": "Hyllplats 4",
+    "locationCode": "6409-108",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 171. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 172,
+    "name": "Produkt 172",
+    "category": "VVS",
+    "aisle": "Gång 5",
+    "shelf": "Hyllplats 5",
+    "locationCode": "4115-235",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 172. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 173,
+    "name": "Produkt 173",
+    "category": "Färg",
+    "aisle": "Gång 13",
+    "shelf": "Hyllplats 5",
+    "locationCode": "3054-422",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 173. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 174,
+    "name": "Produkt 174",
+    "category": "Vitvaror",
+    "aisle": "Gång 7",
+    "shelf": "Hyllplats 1",
+    "locationCode": "8442-315",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 174. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 175,
+    "name": "Produkt 175",
+    "category": "Färg",
+    "aisle": "Gång 13",
+    "shelf": "Hyllplats 10",
+    "locationCode": "5330-524",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 175. Den är perfekt för användning i kategorin färg.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 176,
+    "name": "Produkt 176",
+    "category": "Kök",
+    "aisle": "Gång 3",
+    "shelf": "Hyllplats 2",
+    "locationCode": "3719-454",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 176. Den är perfekt för användning i kategorin kök.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 177,
+    "name": "Produkt 177",
+    "category": "Handverktyg",
+    "aisle": "Gång 3",
+    "shelf": "Hyllplats 6",
+    "locationCode": "9499-745",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 177. Den är perfekt för användning i kategorin handverktyg.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 178,
+    "name": "Produkt 178",
+    "category": "Belysning",
+    "aisle": "Gång 15",
+    "shelf": "Hyllplats 5",
+    "locationCode": "3790-102",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 178. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 179,
+    "name": "Produkt 179",
+    "category": "VVS",
+    "aisle": "Gång 14",
+    "shelf": "Hyllplats 3",
+    "locationCode": "8167-854",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 179. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 180,
+    "name": "Produkt 180",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 11",
+    "shelf": "Hyllplats 10",
+    "locationCode": "6346-303",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 180. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 181,
+    "name": "Produkt 181",
+    "category": "Handverktyg",
+    "aisle": "Gång 2",
+    "shelf": "Hyllplats 8",
+    "locationCode": "6781-737",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 181. Den är perfekt för användning i kategorin handverktyg.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 182,
+    "name": "Produkt 182",
+    "category": "Kök",
+    "aisle": "Gång 10",
+    "shelf": "Hyllplats 7",
+    "locationCode": "9401-112",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 182. Den är perfekt för användning i kategorin kök.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 183,
+    "name": "Produkt 183",
+    "category": "Vitvaror",
+    "aisle": "Gång 8",
+    "shelf": "Hyllplats 7",
+    "locationCode": "1909-241",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 183. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 184,
+    "name": "Produkt 184",
+    "category": "Vitvaror",
+    "aisle": "Gång 17",
+    "shelf": "Hyllplats 6",
+    "locationCode": "3898-260",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 184. Den är perfekt för användning i kategorin vitvaror.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 185,
+    "name": "Produkt 185",
+    "category": "Kök",
+    "aisle": "Gång 11",
+    "shelf": "Hyllplats 2",
+    "locationCode": "8926-148",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 185. Den är perfekt för användning i kategorin kök.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 186,
+    "name": "Produkt 186",
+    "category": "Belysning",
+    "aisle": "Gång 2",
+    "shelf": "Hyllplats 1",
+    "locationCode": "1611-690",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 186. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 187,
+    "name": "Produkt 187",
+    "category": "Trädgård",
+    "aisle": "Gång 15",
+    "shelf": "Hyllplats 10",
+    "locationCode": "8805-772",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 187. Den är perfekt för användning i kategorin trädgård.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 188,
+    "name": "Produkt 188",
+    "category": "Elverktyg",
+    "aisle": "Gång 10",
+    "shelf": "Hyllplats 2",
+    "locationCode": "9571-245",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 188. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 189,
+    "name": "Produkt 189",
+    "category": "Elverktyg",
+    "aisle": "Gång 15",
+    "shelf": "Hyllplats 1",
+    "locationCode": "6591-259",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 189. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  },
+  {
+    "id": 190,
+    "name": "Produkt 190",
+    "category": "Kök",
+    "aisle": "Gång 16",
+    "shelf": "Hyllplats 2",
+    "locationCode": "9019-501",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 190. Den är perfekt för användning i kategorin kök.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 191,
+    "name": "Produkt 191",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 5",
+    "shelf": "Hyllplats 7",
+    "locationCode": "6016-735",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 191. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "3.1 kg",
+      "Material": "Komposit",
+      "Färg": "Grå"
+    }
+  },
+  {
+    "id": 192,
+    "name": "Produkt 192",
+    "category": "Trädgård",
+    "aisle": "Gång 11",
+    "shelf": "Hyllplats 10",
+    "locationCode": "8359-425",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 192. Den är perfekt för användning i kategorin trädgård.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 193,
+    "name": "Produkt 193",
+    "category": "Elverktyg",
+    "aisle": "Gång 18",
+    "shelf": "Hyllplats 3",
+    "locationCode": "6960-137",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 193. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 194,
+    "name": "Produkt 194",
+    "category": "Handverktyg",
+    "aisle": "Gång 1",
+    "shelf": "Hyllplats 2",
+    "locationCode": "2854-836",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 194. Den är perfekt för användning i kategorin handverktyg.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 195,
+    "name": "Produkt 195",
+    "category": "Trädgård",
+    "aisle": "Gång 6",
+    "shelf": "Hyllplats 1",
+    "locationCode": "9615-156",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 195. Den är perfekt för användning i kategorin trädgård.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 196,
+    "name": "Produkt 196",
+    "category": "Trädgård",
+    "aisle": "Gång 1",
+    "shelf": "Hyllplats 8",
+    "locationCode": "8555-824",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 196. Den är perfekt för användning i kategorin trädgård.",
+    "specs": {
+      "Vikt": "1.2 kg",
+      "Material": "Plast och metall",
+      "Färg": "Svart"
+    }
+  },
+  {
+    "id": 197,
+    "name": "Produkt 197",
+    "category": "Kakel & Klinker",
+    "aisle": "Gång 14",
+    "shelf": "Hyllplats 2",
+    "locationCode": "9701-109",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 197. Den är perfekt för användning i kategorin kakel & klinker.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 198,
+    "name": "Produkt 198",
+    "category": "Belysning",
+    "aisle": "Gång 15",
+    "shelf": "Hyllplats 2",
+    "locationCode": "4108-963",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 198. Den är perfekt för användning i kategorin belysning.",
+    "specs": {
+      "Vikt": "2.5 kg",
+      "Material": "Aluminium",
+      "Färg": "Silver"
+    }
+  },
+  {
+    "id": 199,
+    "name": "Produkt 199",
+    "category": "Elverktyg",
+    "aisle": "Gång 12",
+    "shelf": "Hyllplats 3",
+    "locationCode": "4404-621",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 199. Den är perfekt för användning i kategorin elverktyg.",
+    "specs": {
+      "Vikt": "500 g",
+      "Material": "Stål",
+      "Färg": "Röd"
+    }
+  },
+  {
+    "id": 200,
+    "name": "Produkt 200",
+    "category": "VVS",
+    "aisle": "Gång 15",
+    "shelf": "Hyllplats 1",
+    "locationCode": "1700-331",
+    "image": "placeholder.jpg",
+    "description": "Detta är en beskrivning av Produkt 200. Den är perfekt för användning i kategorin vvs.",
+    "specs": {
+      "Vikt": "850 g",
+      "Material": "Trä",
+      "Färg": "Natur"
+    }
+  }
+]
